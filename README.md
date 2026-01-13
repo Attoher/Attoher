@@ -4,36 +4,31 @@ Welcome to my GitHub profile! I'm currently a student at Institut Teknologi Sepu
 
 ## 📊 GitHub Stats Dashboard
 
-<div align="left">
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Attoher&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Attoher's GitHub Stats" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Attoher&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats,Attoher.github.io" height="165" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Attoher&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
   
 </div>
 
-<div align="left">
+<div align="center">
   
-  <!-- Statistik Utama dengan Responsif terhadap Tema GitHub -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Attoher&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&rank_icon=github&theme=radical&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Attoher&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&rank_icon=github&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=Attoher&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered&rank_icon=github&hide_border=true" height="165" alt="GitHub Stats" />
-  </picture>
+  <!-- Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Attoher&theme=radical&hide_border=true" alt="GitHub Streak" />
   
 </div>
 
-<div align="left">
+<div align="center">
   
-  <!-- Aktivitas GitHub -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Attoher&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity" height="165" alt="Contribution Graph" />
+  <!-- Contribution Graph -->
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Attoher&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
   
 </div>
+
+⭐️ *Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out!*
   
 ## 🚀 Skills & Technologies
 
