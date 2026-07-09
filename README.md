@@ -2,24 +2,35 @@
 
 Welcome to my GitHub profile! I'm currently a student at Institut Teknologi Sepuluh Nopember (ITS), passionate about programming, technology, and continuous learning. Here you'll find a collection of my projects, contributions, and interests. Feel free to explore and connect with me!
 
+<div align="left">
+  <a href="mailto:atha2dj@gmail.com">
+    <img src="https://img.shields.io/badge/-atha2dj@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/attoher/">
+    <img src="https://img.shields.io/badge/-attoher-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/mir_atta1723">
+    <img src="https://img.shields.io/badge/-%40mir__atta1723-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
 ## 📊 GitHub Stats Dashboard
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Attoher&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Attoher's GitHub Stats" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Attoher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Attoher's GitHub Stats" />
   <!-- Top Languages -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Attoher&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Attoher&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </div>
 
 <div align="center">
   <!-- Streak Stats -->
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Attoher&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Attoher&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <!-- Contribution Graph -->
-  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Attoher&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Attoher&theme=tokyonight&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </div>
 
 ⭐️ *Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out!*
@@ -105,7 +116,6 @@ Welcome to my GitHub profile! I'm currently a student at Institut Teknologi Sepu
 ### Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
