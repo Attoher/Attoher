@@ -5,31 +5,25 @@ Welcome to my GitHub profile! I'm currently a student at Institut Teknologi Sepu
 ## 📊 GitHub Stats Dashboard
 
 <div align="center">
-  
   <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Attoher&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Attoher's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Attoher&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Attoher's GitHub Stats" />
   
   <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Attoher&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Attoher&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  
   <!-- Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Attoher&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Attoher&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  
   <!-- Contribution Graph -->
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Attoher&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
-  
+  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Attoher&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </div>
 
 ⭐️ *Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out!*
-  
+
 ## 🚀 Skills & Technologies
 
 ### Programming Languages
@@ -94,9 +88,9 @@ Welcome to my GitHub profile! I'm currently a student at Institut Teknologi Sepu
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)=
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)=
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Networking & Security
